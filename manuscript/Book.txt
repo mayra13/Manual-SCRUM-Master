@@ -1,3 +1,3 @@
-Hoja de ruta.md
+Hojaderuta.md
 ScrumBut.md
-Teoría de restricciones.md
+Teoríaderestricciones.md
