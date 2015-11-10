@@ -36,7 +36,7 @@ Asignación de roles:
 
 Pasos para realizar un barco de papel:
 
-![Imagen que muestra como hacer un barco de papel](images/barcodepapel.png)
+![Imagen que muestra como hacer un barco de papel](images/barcodepapel.jpg)
 
 En este caso el cliente será uno de los instructores y el otro será el proveedor de materia prima.
 
