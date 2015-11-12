@@ -30,11 +30,3 @@ __Ejemplo:__
 
 __Yo como__ "socio tecnologico" __quiero__ "conectarme a la plataforma" __para__ "dar de alta los cursos a través de una API".
 
-__Ejercico:__ En la siguiente [liga][2] se encuentra la convocatoria para el desarrollo de una aplicación web que vincule a los funcionarios públicos con las plataformas de capacitación de empresas del sector de TIC, de la pagina llamada "Retos publicos". La cual ayudara para la realizacion de:
-
-[2]: https://docs.google.com/document/d/1p6snXndUkm9QY8v33035KwgORgxFeG7o88xhv7gPNJw/edit#
-
-
-* Redaccion de historias de usuario.
-* Valoracion de importancia por parte del cliente de la historias de usuario.
-* Estimacion de las historias de usuario.
