@@ -6,3 +6,6 @@ Herramientatrello.md
 Multitasking.md
 teoriaderestricciones.md
 Unabuenaretrospectiva.md
+Kanban.md
+Administracion del tiempo.md
+
