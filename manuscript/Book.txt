@@ -1,6 +1,5 @@
 Hojaderuta.md
 ScrumBut.md
-teoriaderestricciones.md
 ciclodevidascrum.md
 Herramientatrello.md
 Multitasking.md
