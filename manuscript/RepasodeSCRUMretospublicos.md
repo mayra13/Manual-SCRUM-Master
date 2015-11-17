@@ -8,6 +8,7 @@ públicos con las plataformas de capacitación de empresas del sector de TIC, de
 [2]: https://docs.google.com/document/d/1p6snXndUkm9QY8v33035KwgORgxFeG7o88xhv7gPNJw/edit#
 
 Realizar los siguientes puntos:
+
 * Lectura y comprension del proyecto.
 * Redaccion de historias de usuario.
 * Valoracion de importancia por parte del cliente de la historias de usuario.

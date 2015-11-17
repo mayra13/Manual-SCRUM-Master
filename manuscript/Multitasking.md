@@ -1,4 +1,4 @@
-# Multitasking y administración del tiempo.
+# Multi tasking
 
 En la actualidad las personas tienden a realizar multitasking o multitareas por sus múltiples actividades que deben realizar en el transcurso diario, desde las actividades en la casa antes de salir al trabajo, así como en el trabajo, los pendientes del día anterior, los que se han acumulado en el transcurso del día, y los que se acumularan para el dia siguiente.
 ¿Cuantas de esa personas pueden realizar más de una cosa a la vez? la respuesta es todos, pero… realizar multitarea hace a las personas ¿terminar eficientemente su trabajo?, ¿es más productivo el empleado que realiza varias cosas al mismo tiempo?.
@@ -12,18 +12,27 @@ __Ejercicio:__
  
 Cada uno de los integrantes del curso debe contar con una hoja de papel para realizar:
 
-1.-Se tiene un minuto para dibujar una serie de figuras como la que se muestra:
+__Priemera ronda__
+
+1.-Se tiene un minuto para dibujar una serie de figuras como la que se muestra (realizar la serie hasta que el munito termine):
 
 ![ejemplo de figuras](images/Figuras.png)
 
-2.- Se tiene un minuto para desarrollar la serie de fibonacci:
+2.- Se tiene un minuto para desarrollar la serie de fibonacci (realizar la serie hasta que el munito termine):
 
 1 1 2 3 5 8 13...
 
-3.- Se escribe el abecedario saltando dos letras comenzando de la letra A (se puede comenzar de la letra que usted considere). La letra Ñ no cuenta, en caso de que se llegue a la última letra del abecedario, comenzar otra vez:
+3.- Se escribe el abecedario saltando dos letras comenzando de la letra A (se puede comenzar de la letra que usted considere). La letra Ñ no cuenta, en caso de que se llegue a la última letra del abecedario, comenzar otra vez. (realizar la serie hasta que el munito termine):
 
     A D G J M P S V Y B E....
 
 4.- Una vez terminadas las tres actividades cada uno de los compañeros pasa su hoja al compañero del lado derecho para la revisión, contamos cuantas series correctas fueron dibujadas y se anota el número de aciertos, revisar si las serie de fibonacci esta correcta y anotar cuántos números correctos alcanzó a anotar, y por último revisamos que las letras del abecedario están correctas.
 Cuando detecte el primer error se termina la revisión.
 
+__Segunda ronda__
+
+Ahora se tendran 3 minutos para realizar las series anteriores, pero el instructor sera el que dicte que se hara primero, si la serie de numeros, la de figuras o la de las letras, en un orden diferente. Al terminar los 3 minutos la hoja se pasa nuevamente al compañero del lado derecho para la revision.
+
+Compartir con el grupo los resultados que obtivieron, como les fue mejor ¿la priemera ronda? o a ¿la segunda ronda?, ¿por que creen que fue de esa manera?
+
+Con este sensillo ejercicio se comprueba que realizar multi tareas no hace a las personas mas productivas ya que se avanza poco por tarea y ademas se comenten mas errores que cuando se desarrolla una sola tarea a la vez.

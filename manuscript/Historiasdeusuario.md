@@ -22,9 +22,9 @@ Según Bill Wake las caracteristicas de una buena historia de usuario deben de c
 
 ## Como redactar una HU
 
-A continuaciÓn se describira y mostrara como redactar una HU
+A continuación se describira y mostrara como redactar una HU
 
-Yo como <tipo de usuario>, quiero o necesito <función> para <descripción del porque>
+Yo como "tipo de usuario", quiero o necesito "función" para "descripción del porque"
 
 __Ejemplo:__
 

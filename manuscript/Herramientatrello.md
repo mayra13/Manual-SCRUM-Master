@@ -5,6 +5,7 @@ Esta herramienta se basa en el método KANBAN para la gestión de proyectos, rep
 Recientemente ha implementado la integración de Google Drive y Dorpbox para traer archivos, documentos, o imágenes que se tengan en la nube.
 
 __¿Cómo funciona?__
+
 * El proyecto es representado por un tablero.
 * El tablero contiene listas de tareas.
 * Las tareas están descritas en tarjetas.

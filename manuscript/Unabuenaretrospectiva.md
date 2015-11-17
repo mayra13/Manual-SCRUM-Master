@@ -1,7 +1,8 @@
 # Retrospectiva
+
 ## Como hacer una buena retrospectiva
 
-__Reflexiones sobre ventajas y desventajas de hacer retrospectivas.__
+A momento de realizar una retrospectiva se debe tomar en cuanta los siguientes puntos importantes para que la retrospectiva sea buena.
 
 * Evitar culpar a la gente por sus errores.
 * Reconocer errores.
