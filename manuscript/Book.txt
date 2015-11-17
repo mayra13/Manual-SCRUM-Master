@@ -9,3 +9,4 @@ Kanban.md
 Administracion del tiempo.md
 Historiasdeusuario.md
 RepasodeSCRUMretospublicos.md
+Retrospectiva.md
