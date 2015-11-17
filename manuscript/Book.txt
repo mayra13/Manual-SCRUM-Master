@@ -6,7 +6,7 @@ Multitasking.md
 teoriaderestricciones.md
 Unabuenaretrospectiva.md
 Kanban.md
-Administracion del tiempo.md
+Administraciondeltiempo.md
 Historiasdeusuario.md
 RepasodeSCRUMretospublicos.md
 Retrospectiva.md

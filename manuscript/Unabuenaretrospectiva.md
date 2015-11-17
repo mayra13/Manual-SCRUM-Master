@@ -1,6 +1,4 @@
-# Retrospectiva
-
-## Como hacer una buena retrospectiva
+# Como hacer una buena retrospectiva
 
 A momento de realizar una retrospectiva se debe tomar en cuanta los siguientes puntos importantes para que la retrospectiva sea buena.
 

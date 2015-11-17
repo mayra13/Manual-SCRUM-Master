@@ -1,4 +1,4 @@
-# 7 Retrospectiva
+# Retrospectiva
 
 En casi todos los proyectos de desarrollo de Software se presentan conflictos como la falta de claridad en los requerimientos, mala comunicación del equipo, selección de herramientas nuevas sin curso introductorio previo, por mencionar algunos.
 
