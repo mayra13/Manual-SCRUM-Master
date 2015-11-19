@@ -1,12 +1,19 @@
-Hojaderuta.md
-ScrumBut.md
-ciclodevidascrum.md
-Herramientatrello.md
-Multitasking.md
-teoriaderestricciones.md
-Unabuenaretrospectiva.md
-Kanban.md
 Administraciondeltiempo.md
+ciclodevidascrum.md
+Complejidadesencialcomplejidadaccidental.md
+Diagramas yprocesosgeneralesenKanban.md
+Herramientatrello.md
 Historiasdeusuario.md
+Hojaderuta.md
+integracioncontinua.md
+Introducción arepositoriosdecódigoCaso Git.md
+Kanban.md
+Multitasking.md
 RepasodeSCRUMretospublicos.md
 Retrospectiva.md
+ScrumBut.md
+teoriaderestricciones.md
+Unabuenaretrospectiva.md
+
+
+
