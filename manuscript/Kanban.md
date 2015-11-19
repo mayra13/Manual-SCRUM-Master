@@ -11,6 +11,15 @@ __Principios de Kanban:__
 3. gestionar el flujo.
 4. Determinar las politicas del proceso.
 
+__Ejemplo del funcionamiento de Kanban__
+
+![Ciclo de vida de SCRUM](images/Kanban1.JPG)
+
+![Ciclo de vida de SCRUM](images/kanban2.png)
+
+![Ciclo de vida de SCRUM](images/kanban3.png)
+
+![Ciclo de vida de SCRUM](images/kanban4.png)
 
 
 __Implementacion de Kanban__
