@@ -9,13 +9,12 @@
 9.Multitasking.md
 10.Administraciondeltiempo.md
 11.ciclodevidascrum.md
-12.Unabuenaretrospectiva.md
-13.RepasodeSCRUMretospublicos.md
-14.Historiasdeusuario.md
-15.IntroducciónarepositoriosdecódigoCasoGit.md
-16.integracioncontinua.md
-
-
+12.Planningpoker.md
+13.Unabuenaretrospectiva.md
+14.RepasodeSCRUMretospublicos.md
+15.Historiasdeusuario.md
+16.IntroducciónarepositoriosdecódigoCasoGit.md
+17.integracioncontinua.md
 
 
 
