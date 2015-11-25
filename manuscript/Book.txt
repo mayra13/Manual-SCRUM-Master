@@ -13,8 +13,8 @@
 13.Unabuenaretrospectiva.md
 14.RepasodeSCRUMretospublicos.md
 15.Historiasdeusuario.md
-16.IntroducciónarepositoriosdecódigoCasoGit.md
-17.integracioncontinua.md
+16.integracioncontinua.md
+17.IntroducciónarepositoriosdecódigoCasoGit.md
 
 
 
